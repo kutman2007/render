@@ -1,0 +1,26 @@
+
+.contener{
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  img{
+    width: 50px;
+  }
+  .vas{
+      border: 2px solid;
+      width: 150px;
+      background-color: blue;
+  }
+  .title{
+      text-align: center;
+      margin-top: 5px;
+      font-size: 20px;
+  
+  }

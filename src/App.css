@@ -1,0 +1,6 @@
+.App{
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  flex-wrap: wrap;
+}
